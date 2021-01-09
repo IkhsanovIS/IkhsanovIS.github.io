@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru-ru">
+  <title>Axiom Example</title>
+  <subtitle></subtitle>
+  <id>https://axiom-example.netlify.app/</id>
+  <author>
+    <name>Axiom Example</name>
+    <uri>https://axiom-example.netlify.app/</uri>
+  </author>
+  <icon>https://axiom-example.netlify.app/image/brand/icon-1-1.png</icon>
+  <logo>https://axiom-example.netlify.app/image/brand/icon-2-1.png</logo>
+  <updated>2021-01-09T21:57:03Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://axiom-example.netlify.app/feed.atom" hreflang="ru-ru"/>
+  <link rel="alternate" type="text/html" href="https://axiom-example.netlify.app/" hreflang="ru-ru"/>
+  <entry>
+    <title>First Post</title>
+    <author>
+      <name>Ilsur Ikhsanov</name>
+      <uri></uri>
+    </author>
+    <id>https://axiom-example.netlify.app/first-post/</id>
+    <updated>2021-01-09T20:00:00Z</updated>
+    <published>2021-01-09T20:00:00Z</published>
+    <content type="html"><![CDATA[<p>And go...</p>
+<h2 id="code-blocks">Code Blocks</h2>
+<p>Hugo's built-in Chroma syntax highlighting with Axiom's custom colors:</p>
+<div class="highlight"><pre class="chroma"><code class="language-c#" data-lang="c#"><span class="k">public</span> <span class="kt">string</span> <span class="n">MyMethod</span><span class="p">()</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="s">&#34;hello world!&#34;</span>
+<span class="p">}</span>
+</code></pre></div>]]></content>
+  </entry>
+</feed>
